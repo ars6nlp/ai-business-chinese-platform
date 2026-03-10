@@ -18,7 +18,7 @@ Language learning has historically been rigid and static. As someone deeply inve
 ## 🎯 Research Objectives
 - Develop an intelligent architectural framework integrating client-server structures with an advanced NLP module.
 - Overcome the limitations of static language learning by deploying context-rich, simulation-based conversational AI.
-- Design an intuitive user interface that reduces cognitive load while providing automated, real-time feedback on user pronunciation, grammar, and negotiation tactics.
+- Design an intuitive user interface that reduce cognitive load while providing automated, real-time feedback on user pronunciation, grammar, and negotiation tactics.
 
 ## 🧠 Methodology & Tech Stack
 - **Conversational AI:** Integration of LLMs customized for business Chinese contexts and dialogue trees.
